@@ -2,7 +2,7 @@ body {
     width: 95%;
     max-width: 800px;
     margin: auto;
-    background: url(bg.jpg) center;
+    background: url(../img/bg.jpg) center;
   
     font-family: 'Lato';
     line-height: 1.5;
